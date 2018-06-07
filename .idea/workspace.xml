@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13bf7cfc-cdba-4fde-ace5-1542f2d0cf93" name="Default" comment="" />
+    <list default="true" id="f6a72898-1fb6-4751-a12c-000e7b54d06c" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/9ddf9c77-2ae4-4b05-b3d1-e3440be3d9b9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/9ddf9c77-2ae4-4b05-b3d1-e3440be3d9b9.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,84 +34,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="task.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/task.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="task_create.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/task_create.php">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="admin_edit_task.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/admin_edit_task.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="4" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="adminMainSort.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/adminMainSort.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="68" column="113" selection-start-line="68" selection-start-column="113" selection-end-line="68" selection-end-column="113" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/confic/config.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="33" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Admin.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/model/Admin.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Task.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/model/Task.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="22" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".htaccess" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".htaccess" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.htaccess">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="main.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/main.php">
+      <file leaf-file-name="Index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="120">
+              <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AdminController.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controller/AdminController.php">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state>
+              <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -119,47 +64,13 @@
       <find>uploa</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/model/User.php" />
-        <option value="$PROJECT_DIR$/Index.php" />
-        <option value="$PROJECT_DIR$/app/db/DbInterface.php" />
-        <option value="$PROJECT_DIR$/app/dao/AdminDAOInterface.php" />
-        <option value="$PROJECT_DIR$/app/dao/Interface/TaskDAOInterface.php" />
-        <option value="$PROJECT_DIR$/app/views/template/js/test.php" />
-        <option value="$PROJECT_DIR$/app/dao/Interface/AdminDAOInterface.php" />
-        <option value="$PROJECT_DIR$/app/model/Admin.php" />
-        <option value="$PROJECT_DIR$/app/confic/config.php" />
-        <option value="$PROJECT_DIR$/app/framework/App.php" />
-        <option value="$PROJECT_DIR$/app/framework/Routers.php" />
-        <option value="$PROJECT_DIR$/app/framework/View.php" />
-        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/9ddf9c77-2ae4-4b05-b3d1-e3440be3d9b9/console_1.sql" />
-        <option value="$PROJECT_DIR$/app/views/login.php" />
-        <option value="$PROJECT_DIR$/app/controller/AuthoricationController.php" />
-        <option value="$USER_HOME$/userdata/config/PHP-7.1_php.ini" />
-        <option value="$PROJECT_DIR$/app/controller/ImageController.php" />
-        <option value="$PROJECT_DIR$/app/views/task_create.php" />
-        <option value="$PROJECT_DIR$/app/controller/TaskController.php" />
-        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/9ddf9c77-2ae4-4b05-b3d1-e3440be3d9b9/console_2.sql" />
-        <option value="$PROJECT_DIR$/app/dao/AdminDAO.php" />
-        <option value="$PROJECT_DIR$/app/db/DbConnector.php" />
-        <option value="$PROJECT_DIR$/app/views/template/js/js.js" />
-        <option value="$PROJECT_DIR$/app/dao/TaskDAOInterface.php" />
-        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/9ddf9c77-2ae4-4b05-b3d1-e3440be3d9b9/console_3.sql" />
-        <option value="$PROJECT_DIR$/app/model/Task.php" />
-        <option value="$PROJECT_DIR$/app/dao/TaskDAO.php" />
-        <option value="$PROJECT_DIR$/app/views/mainSort.php" />
-        <option value="$PROJECT_DIR$/app/controller/MainController.php" />
-        <option value="$PROJECT_DIR$/app/views/adminMain.php" />
-        <option value="$PROJECT_DIR$/app/views/adminMainSort.php" />
-        <option value="$PROJECT_DIR$/app/confic/routers.php" />
-        <option value="$PROJECT_DIR$/app/controller/AdminController.php" />
-        <option value="$PROJECT_DIR$/app/views/task_preview.php" />
-        <option value="$PROJECT_DIR$/app/views/admin_edit_task.php" />
-        <option value="$PROJECT_DIR$/app/views/task.php" />
-        <option value="$PROJECT_DIR$/app/views/main.php" />
-        <option value="$PROJECT_DIR$/app/views/header_footer/header.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -168,6 +79,9 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="65" />
@@ -212,6 +126,7 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -222,62 +137,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="BeeJeeTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BeeJeeTest" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="BeeJeeTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BeeJeeTest" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="BeeJeeTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BeeJeeTest" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="confic" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="BeeJeeTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BeeJeeTest" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="controller" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="BeeJeeTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BeeJeeTest" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="dao" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="BeeJeeTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BeeJeeTest" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="db" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="BeeJeeTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BeeJeeTest" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="framework" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="BeeJeeTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BeeJeeTest" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="model" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="BeeJeeTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BeeJeeTest" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="BeeJeeTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BeeJeeTest" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="header_footer" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="untitled1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -287,11 +148,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
-    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.debug" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -324,27 +184,18 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="13bf7cfc-cdba-4fde-ace5-1542f2d0cf93" name="Default" comment="" />
-      <created>1522310953178</created>
+      <changelist id="f6a72898-1fb6-4751-a12c-000e7b54d06c" name="Default" comment="" />
+      <created>1528379455148</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1522310953178</updated>
-      <workItem from="1522310954825" duration="19895000" />
-      <workItem from="1522341546737" duration="7394000" />
-      <workItem from="1522389207304" duration="11751000" />
-      <workItem from="1522402477013" duration="3015000" />
-      <workItem from="1522408943445" duration="6727000" />
-      <workItem from="1522416719191" duration="1382000" />
-      <workItem from="1522418311732" duration="217000" />
-      <workItem from="1522418622410" duration="835000" />
-      <workItem from="1522420940566" duration="61000" />
-      <workItem from="1522437682548" duration="3703000" />
-      <workItem from="1522605135517" duration="448000" />
+      <updated>1528379455148</updated>
+      <workItem from="1528379456566" duration="429000" />
+      <workItem from="1528379887814" duration="151000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55428000" />
+    <option name="totallyTimeSpent" value="580000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -356,50 +207,29 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="24" width="1301" height="744" extended-state="0" />
+    <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18754804" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32894737" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3426295" />
+      <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Database" order="3" visible="true" weight="0.18524212" />
-      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32917318" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32894737" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32917318" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32894737" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Database Console" order="7" visible="true" weight="0.32894737" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
-    <layout-to-restore>
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="6" />
-      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.24962178" />
-      <window_info id="Structure" order="2" weight="0.25" />
-      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="bottom" id="Version Control" order="1" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Find" order="5" weight="0.32894737" />
-      <window_info anchor="right" id="Database" order="0" weight="0.18532526" />
-      <window_info anchor="bottom" id="Terminal" order="2" />
-      <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="4" />
-      <window_info id="Favorites" order="0" side_tool="true" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -419,25 +249,11 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/dao/AdminDAOInterface.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/9ddf9c77-2ae4-4b05-b3d1-e3440be3d9b9/console_1.sql" />
     <entry file="file://$PROJECT_DIR$/app/views/login.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -667,6 +483,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.htaccess">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
